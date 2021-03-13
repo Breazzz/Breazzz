@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi there. My name is **Boris Sergeev**!
+## I'm a *Front-End Developer* from Taganrog/Russia (silicon valley in Russia 😄)
+### Check my blog: [@_breazzz](https://www.instagram.com/_breazzz/)
+### Check my website: [bsergeev.ru](https://bsergeev.ru/)
+
+### 📫 How to reach me? -> [mail](mailto:breazzz.mail@yandex.ru)
 
 <!--
 **Breazzz/Breazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
