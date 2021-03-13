@@ -14,7 +14,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 ### 📫 How to reach me? -> [mail](mailto:breazzz.mail@yandex.ru)
-### 🌐 [Telegram](https://t.me/breazzz)
+### 🌐 [Telegram (breazzz)](https://t.me/breazzz)
+
+> Innovation distinguishes between a leader and a follower. <br/>
+> ***Steve Jobs***
 
 <!--
 **Breazzz/Breazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
