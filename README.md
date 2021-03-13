@@ -11,7 +11,7 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=wordpresss)
+![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=wordpress)
 
 ### 📫 How to reach me? -> [mail](mailto:breazzz.mail@yandex.ru)
 ### 🌐 [Telegram (breazzz)](https://t.me/breazzz)
