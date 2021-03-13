@@ -1,7 +1,7 @@
 # 👋 Hi there. My name is **Boris Sergeev**!
 ## I'm a *Front-End Developer* from Taganrog/Russia (Silicon valley in Russia 😄)
 ### 🔗 Check my blog: [@_breazzz](https://www.instagram.com/_breazzz/)
-### 🔗 Check my website: [bsergeev.ru](https://bsergeev.ru/)
+### ⚡ Check my website: [bsergeev.ru](https://bsergeev.ru/)
 
 ### Languages and Technologies 
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
