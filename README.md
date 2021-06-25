@@ -13,8 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=wordpress)
 
-### 📫 How to reach me? -> [mail](mailto:breazzz.mail@yandex.ru)
-### 🌐 [Telegram (breazzz)](https://t.me/breazzz)
 #
 > Innovation distinguishes between a leader and a follower. <br/>
 > ***Steve Jobs***
