@@ -1,7 +1,6 @@
 # 👋 Hi there. My name is **Boris Sergeev**!
-## I'm a *Front-End Developer* from Taganrog/Russia (Silicon valley in Russia 😄)
+## I'm a *Front-End Developer* from Taganrog/Russia
 ### 🔗 Check my blog: [@_breazzz](https://www.instagram.com/_breazzz/)
-### ⚡ Check my website: [bsergeev.ru](https://bsergeev.ru/)
 
 ### Languages and Technologies 
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
@@ -13,7 +12,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=wordpress)
 
-#
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=breazzz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breazzz&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 > Innovation distinguishes between a leader and a follower. <br/>
 > ***Steve Jobs***
 
