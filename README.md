@@ -5,6 +5,7 @@
 ### Languages and Technologies 
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![NEXT](https://img.shields.io/badge/-NEXT-090909?style=for-the-badge&logo=vercel)
 ![GATSBY](https://img.shields.io/badge/-GATSBY-090909?style=for-the-badge&logo=gatsby)
 ![RQUERY](https://img.shields.io/badge/-RQUERY-090909?style=for-the-badge&logo=reactquery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
