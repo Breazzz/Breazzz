@@ -23,7 +23,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=breazzz&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-[![Profile badge](https://www.codewars.com/users/Breazzz/badges/small)](https://www.codewars.com/users/Breazzz/badges)
+[![Profile badge](https://www.codewars.com/users/Breazzz/badges/small)](https://www.codewars.com/users/Breazzz)
 
 > Innovation distinguishes between a leader and a follower. <br/>
 > ***Steve Jobs***
