@@ -14,7 +14,6 @@
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-090909?style=for-the-badge&logo=graphql)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
