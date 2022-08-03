@@ -1,5 +1,4 @@
-# 👋 Hi there!
-## I'm a *Front-End Developer* from Russia
+# 🧑‍💻 *Front-End Developer*
 ### 🔗 Check my blog: [@_breazzz](https://www.instagram.com/_breazzz/)
 
 ### Languages and Technologies 
