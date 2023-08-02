@@ -6,6 +6,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![SAGA](https://img.shields.io/badge/-SAGA-090909?style=for-the-badge&logo=reduxsaga)
 ![NEXT](https://img.shields.io/badge/-NEXT-090909?style=for-the-badge&logo=vercel)
+![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=Remix)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=svelte)
 ![SolidJS](https://img.shields.io/badge/-SolidJS-090909?style=for-the-badge&logo=solid)
 ![GATSBY](https://img.shields.io/badge/-GATSBY-090909?style=for-the-badge&logo=gatsby)
